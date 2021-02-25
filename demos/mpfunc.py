@@ -7,8 +7,7 @@ def get_subproc_info(i):
     print(sys.modules["__main__"].__dict__)
     return os.getpid()
     
-def f(x):
-    print(__name__)
+def f1(x):
     return x*x
 
 def worker_init_fn(id):
