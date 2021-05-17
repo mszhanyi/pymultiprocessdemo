@@ -1,5 +1,5 @@
 # PyMultiprocessDemo
-Demo some python multiprocessing tricks, Pytorch DataLoader usage
+Demo some python multiprocessing issues and tricks
 
 ## Demos <br>
 [00_notebook vs script.ipynb](https://github.com/mszhanyi/pymultiprocessdemo/blob/main/demos/00_notebook%20vs%20script.ipynb): Difference between interactive and script mode. <br>
